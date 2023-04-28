@@ -1,0 +1,22 @@
+#panel-navegacion {
+    -fx-background-color: #642F17;
+}
+
+#panel-entidad {
+    -fx-background-color: #C8C8D2;
+    -fx-background-radius: 0 0 50 50;
+}
+
+.botones-crud {
+    -fx-background-color: #642F17;
+    -fx-text-fill: #FFFFFF;
+}
+
+.botones-crud:hover {
+    -fx-background-color: #E7E7E7;
+    -fx-text-fill: #000000;
+}
+
+#vbox-crud {
+    -fx-background-color: #642F17;
+}
